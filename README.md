@@ -3,11 +3,11 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 
 ## Overview of the Analysis
-Reference for live code and text narrative saved to [credit_risk_classification.ipynb](insertlinkhere)
+Reference for live code and text narrative saved to [credit_risk_classification.ipynb](https://github.com/Kre8iveEnvy/credit-risk-classification/blob/main/credit_risk_classification.ipynb)
 
 * The purpose of this ananlysis is to build a model that can identity the creditworthiness of borrowers.
 
-* The provided data [lending_data.csv](insertlinkhere) is a csv file that includes the following financial which will be used to test and predict the outcome of a healthy loan vs a high-risk loan
+* The provided data [lending_data.csv](https://github.com/Kre8iveEnvy/credit-risk-classification/blob/main/Resources/lending_data.csv) is a csv file that includes the following financial which will be used to test and predict the outcome of a healthy loan vs a high-risk loan
     - loan_size 
     - interest_rate
     - borrower_income
@@ -29,7 +29,8 @@ Reference for live code and text narrative saved to [credit_risk_classification.
 Using the classification report for the model there was an F1-score of 99% for accuracy.The logistice regression model received an f1-score of 100% for predicting healthy loans and 88% f1-score at predicting high rick loans.
 
 * See below image for the breakdown of Healthy Loans (0) vs High Risk Loans (1) 
-![classification_report](insertlinkhere)
+![classification_report](https://github.com/Kre8iveEnvy/credit-risk-classification/blob/main/classification_report.png)
+
 
 
 
